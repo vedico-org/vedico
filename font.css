@@ -1,0 +1,255 @@
+@font-face {
+  font-family: 'vedico';
+  src:  url('fonts/vedico.eot?kfpzqi');
+  src:  url('fonts/vedico.eot?kfpzqi#iefix') format('embedded-opentype'),
+    url('fonts/vedico.ttf?kfpzqi') format('truetype'),
+    url('fonts/vedico.woff?kfpzqi') format('woff'),
+    url('fonts/vedico.svg?kfpzqi#vedico') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="vedico-"], [class*=" vedico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'vedico' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vedico-android:before {
+  content: "\e900";
+  color: #a4c439;
+}
+.vedico-angularjs:before {
+  content: "\e901";
+  color: #c4473a;
+}
+.vedico-apache:before {
+  content: "\e902";
+  color: #303284;
+}
+.vedico-apple:before {
+  content: "\e903";
+}
+.vedico-atom:before {
+  content: "\e904";
+  color: #67595d;
+}
+.vedico-aws:before {
+  content: "\e905";
+  color: #f7a80d;
+}
+.vedico-bootstrap:before {
+  content: "\e906";
+  color: #5b4282;
+}
+.vedico-bulma:before {
+  content: "\e907";
+  color: #00d1b2;
+}
+.vedico-c:before {
+  content: "\e908";
+  color: #03599c;
+}
+.vedico-codeigniter:before {
+  content: "\e909";
+  color: #ee4323;
+}
+.vedico-cpp:before {
+  content: "\e90a";
+  color: #9c033a;
+}
+.vedico-csharp:before {
+  content: "\e90b";
+  color: #68217a;
+}
+.vedico-css:before {
+  content: "\e90c";
+  color: #1572b6;
+}
+.vedico-debian:before {
+  content: "\e90d";
+  color: #a80030;
+}
+.vedico-django:before {
+  content: "\e90e";
+  color: #003a2b;
+}
+.vedico-docker:before {
+  content: "\e90f";
+  color: #019bc6;
+}
+.vedico-dotnet:before {
+  content: "\e910";
+  color: #1384c8;
+}
+.vedico-drupal:before {
+  content: "\e911";
+  color: #0073ba;
+}
+.vedico-electronjs:before {
+  content: "\e912";
+  color: #47848f;
+}
+.vedico-emberjs:before {
+  content: "\e913";
+  color: #e04e39;
+}
+.vedico-express:before {
+  content: "\e914";
+}
+.vedico-facebook:before {
+  content: "\e915";
+  color: #3d5a98;
+}
+.vedico-firebase:before {
+  content: "\e916";
+  color: #ffca28;
+}
+.vedico-gatsbyjs .path1:before {
+  content: "\e917";
+  color: rgb(255, 255, 255);
+}
+.vedico-gatsbyjs .path2:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(102, 51, 153);
+}
+.vedico-git:before {
+  content: "\e919";
+  color: #f34f29;
+}
+.vedico-github:before {
+  content: "\e91a";
+}
+.vedico-gitlab:before {
+  content: "\e91b";
+  color: #e24329;
+}
+.vedico-googlecloud:before {
+  content: "\e91c";
+  color: #767676;
+}
+.vedico-graphql:before {
+  content: "\e91d";
+  color: #e10098;
+}
+.vedico-gulp:before {
+  content: "\e91e";
+  color: #eb4a4b;
+}
+.vedico-heroku:before {
+  content: "\e91f";
+  color: #6762a6;
+}
+.vedico-html:before {
+  content: "\e920";
+  color: #e44d26;
+}
+.vedico-java:before {
+  content: "\e921";
+  color: #ea2d2e;
+}
+.vedico-javascript:before {
+  content: "\e922";
+  color: #f0db4f;
+}
+.vedico-jquery:before {
+  content: "\e923";
+  color: #0868ac;
+}
+.vedico-laravel:before {
+  content: "\e924";
+  color: #fd4f31;
+}
+.vedico-less:before {
+  content: "\e925";
+  color: #2a4d80;
+}
+.vedico-magento:before {
+  content: "\e926";
+  color: #ec6737;
+}
+.vedico-mongodb:before {
+  content: "\e927";
+  color: #4faa41;
+}
+.vedico-mysql:before {
+  content: "\e928";
+  color: #00618a;
+}
+.vedico-nginx:before {
+  content: "\e929";
+  color: #090;
+}
+.vedico-nodejs:before {
+  content: "\e92a";
+  color: #83cd29;
+}
+.vedico-php:before {
+  content: "\e92b";
+  color: #6181b6;
+}
+.vedico-postgresql:before {
+  content: "\e92c";
+  color: #336791;
+}
+.vedico-python:before {
+  content: "\e92d";
+  color: #ffd845;
+}
+.vedico-rails:before {
+  content: "\e92e";
+  color: #a62c46;
+}
+.vedico-react:before {
+  content: "\e92f";
+  color: #61dafb;
+}
+.vedico-ruby:before {
+  content: "\e930";
+  color: #d91404;
+}
+.vedico-sass:before {
+  content: "\e931";
+  color: #cb6699;
+}
+.vedico-swift:before {
+  content: "\e932";
+  color: #f05138;
+}
+.vedico-symfony:before {
+  content: "\e933";
+}
+.vedico-tensorflow:before {
+  content: "\e934";
+  color: #eb8c23;
+}
+.vedico-twitter:before {
+  content: "\e935";
+  color: #1da1f2;
+}
+.vedico-typescript:before {
+  content: "\e936";
+  color: #007acc;
+}
+.vedico-visualstudio:before {
+  content: "\e937";
+  color: #68217a;
+}
+.vedico-vuejs:before {
+  content: "\e938";
+  color: #41b883;
+}
+.vedico-wordpress:before {
+  content: "\e939";
+  color: #494949;
+}
