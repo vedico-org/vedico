@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'vedico';
-  src:  url('fonts/vedico.eot?b2xu0l');
-  src:  url('fonts/vedico.eot?b2xu0l#iefix') format('embedded-opentype'),
-    url('fonts/vedico.ttf?b2xu0l') format('truetype'),
-    url('fonts/vedico.woff?b2xu0l') format('woff'),
-    url('fonts/vedico.svg?b2xu0l#vedico') format('svg');
+  src:  url('fonts/vedico.eot?og9mbg');
+  src:  url('fonts/vedico.eot?og9mbg#iefix') format('embedded-opentype'),
+    url('fonts/vedico.ttf?og9mbg') format('truetype'),
+    url('fonts/vedico.woff?og9mbg') format('woff'),
+    url('fonts/vedico.svg?og9mbg#vedico') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.vedico-npm:before {
+  content: "\e93c";
+}
 .vedico-android:before {
   content: "\e900";
 }
@@ -93,8 +96,34 @@
 .vedico-firebase:before {
   content: "\e916";
 }
-.vedico-flutter:before {
+.vedico-flutter-og .path1:before {
   content: "\e917";
+  color: rgb(57, 206, 253);
+}
+.vedico-flutter-og .path2:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(57, 206, 253);
+}
+.vedico-flutter-og .path3:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(3, 86, 155);
+}
+.vedico-flutter-og .path4:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.vedico-flutter-og .path5:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(22, 185, 253);
+}
+.vedico-flutter-og .path6:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
 .vedico-gatsbyjs .path1:before {
   content: "\e918";
