@@ -1,5 +1,8 @@
 # vedico
-Get font with logos and logo's svg to use in project.
-## Tutorial + example site coming soon
+### Font and svg collection of icons for developers.
 
-## Feel free to open issues with new logos wanted and Pull requests with yours logos in svg format.
+🌐 <a href="https://agrochal.me/vedico/index.html">See library and installation guide.</a> 🌐
+
+
+####  Feel free to open issues with new icons requests and pull request if you want to contribute and help us building vedico.
+#### Before you request new icon, please check our to-do list.
