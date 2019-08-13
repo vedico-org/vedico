@@ -3,26 +3,25 @@
 ## New icons
 
 ### Priority
-- adobe illustrator
-- adobe xd
-- adobe photoshop
-- adobe lightroom
-- behance
-- kaggle
-- lets encrypt
-- joomla
-- gitter
-- go
-- microsoft
-- material design
-- visual studio code
-- kotlin
-- whatsapp
-- spotify
-- creative commons
-- reddit
-- soundcloud
-- jsdelivr
+- ~~adobe illustrator~~
+- ~~adobe xd~~
+- ~~adobe photoshop~~
+- ~~adobe lightroom~~
+- ~~behance~~
+- ~~kaggle~~
+- ~~lets encrypt~~
+- ~~joomla~~
+- ~~gitter~~
+- ~~go~~
+- ~~microsoft~~
+- ~~google~~
+- ~~visual studio code~~
+- ~~kotlin~~
+- ~~whatsapp~~
+- ~~spotify~~
+- ~~reddit~~
+- ~~soundcloud~~
+- ~~jsdelivr~~
 - ~~patreon~~
 - ~~codepen~~
 - ~~bitbucket~~
@@ -42,6 +41,8 @@
 - ~~arduino~~
 
 ### Others
+- material design
+- creative commons
 - coffeescript
 - ubuntu 
 - fedora
