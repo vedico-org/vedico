@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'vedico';
-  src:  url('fonts/vedico.eot?jhru7k');
-  src:  url('fonts/vedico.eot?jhru7k#iefix') format('embedded-opentype'),
-    url('fonts/vedico.ttf?jhru7k') format('truetype'),
-    url('fonts/vedico.woff?jhru7k') format('woff'),
-    url('fonts/vedico.svg?jhru7k#vedico') format('svg');
+  src:  url('fonts/vedico.eot?idcpx6');
+  src:  url('fonts/vedico.eot?idcpx6#iefix') format('embedded-opentype'),
+    url('fonts/vedico.ttf?idcpx6') format('truetype'),
+    url('fonts/vedico.woff?idcpx6') format('woff'),
+    url('fonts/vedico.svg?idcpx6#vedico') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,192 +24,303 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.vedico-android:before {
+.vedico-adobexd:before {
   content: "\e900";
 }
-.vedico-angularjs:before {
+.vedico-android:before {
   content: "\e901";
 }
-.vedico-apache:before {
+.vedico-angularjs:before {
   content: "\e902";
 }
-.vedico-apple:before {
+.vedico-apache:before {
   content: "\e903";
 }
-.vedico-atom:before {
+.vedico-apple:before {
   content: "\e904";
 }
-.vedico-aws:before {
+.vedico-arduino:before {
   content: "\e905";
 }
-.vedico-bootstrap:before {
+.vedico-atom:before {
   content: "\e906";
 }
-.vedico-bulma:before {
+.vedico-aws:before {
   content: "\e907";
 }
-.vedico-c:before {
+.vedico-behance:before {
   content: "\e908";
 }
-.vedico-codeigniter:before {
+.vedico-bitbucket:before {
   content: "\e909";
 }
-.vedico-cpp:before {
+.vedico-bootstrap:before {
   content: "\e90a";
 }
-.vedico-csharp:before {
+.vedico-bulma:before {
   content: "\e90b";
 }
-.vedico-css:before {
+.vedico-c:before {
   content: "\e90c";
 }
-.vedico-debian:before {
+.vedico-cloudflare:before {
   content: "\e90d";
 }
-.vedico-django:before {
+.vedico-codeigniter:before {
   content: "\e90e";
 }
-.vedico-docker:before {
+.vedico-codepen:before {
   content: "\e90f";
 }
-.vedico-dotnet:before {
+.vedico-cpp:before {
   content: "\e910";
 }
-.vedico-drupal:before {
+.vedico-csharp:before {
   content: "\e911";
 }
-.vedico-electronjs:before {
+.vedico-css:before {
   content: "\e912";
 }
-.vedico-emberjs:before {
+.vedico-debian:before {
   content: "\e913";
 }
-.vedico-express:before {
+.vedico-digitalocean:before {
   content: "\e914";
 }
-.vedico-facebook:before {
+.vedico-django:before {
   content: "\e915";
 }
-.vedico-figma:before {
+.vedico-docker:before {
   content: "\e916";
 }
-.vedico-firebase:before {
+.vedico-dotnet:before {
   content: "\e917";
 }
-.vedico-flutter:before {
+.vedico-drupal:before {
   content: "\e918";
 }
-.vedico-gatsbyjs:before {
+.vedico-electronjs:before {
   content: "\e919";
 }
-.vedico-git:before {
+.vedico-emberjs:before {
   content: "\e91a";
 }
-.vedico-github:before {
+.vedico-express:before {
   content: "\e91b";
 }
-.vedico-gitlab:before {
+.vedico-facebook:before {
   content: "\e91c";
 }
-.vedico-googlecloud:before {
+.vedico-figma:before {
   content: "\e91d";
 }
-.vedico-graphql:before {
+.vedico-firebase:before {
   content: "\e91e";
 }
-.vedico-gulp:before {
+.vedico-flutter:before {
   content: "\e91f";
 }
-.vedico-heroku:before {
+.vedico-gatsbyjs:before {
   content: "\e920";
 }
-.vedico-html:before {
+.vedico-git:before {
   content: "\e921";
 }
-.vedico-java:before {
+.vedico-github:before {
   content: "\e922";
 }
-.vedico-javascript:before {
+.vedico-gitlab:before {
   content: "\e923";
 }
-.vedico-jquery:before {
+.vedico-gitter:before {
   content: "\e924";
 }
-.vedico-kubernetes:before {
+.vedico-go:before {
   content: "\e925";
 }
-.vedico-laravel:before {
+.vedico-google:before {
   content: "\e926";
 }
-.vedico-less:before {
+.vedico-googlecloud:before {
   content: "\e927";
 }
-.vedico-magento:before {
+.vedico-graphql:before {
   content: "\e928";
 }
-.vedico-mongodb:before {
+.vedico-gulp:before {
   content: "\e929";
 }
-.vedico-mysql:before {
+.vedico-heroku:before {
   content: "\e92a";
 }
-.vedico-nginx:before {
+.vedico-html:before {
   content: "\e92b";
 }
-.vedico-nodejs:before {
+.vedico-illustrator:before {
   content: "\e92c";
 }
-.vedico-npm:before {
+.vedico-instagram:before {
   content: "\e92d";
 }
-.vedico-php:before {
+.vedico-java:before {
   content: "\e92e";
 }
-.vedico-postgresql:before {
+.vedico-javascript:before {
   content: "\e92f";
 }
-.vedico-postman:before {
+.vedico-joomla:before {
   content: "\e930";
 }
-.vedico-python:before {
+.vedico-jquery:before {
   content: "\e931";
 }
-.vedico-rails:before {
+.vedico-jsdelivr:before {
   content: "\e932";
 }
-.vedico-react:before {
+.vedico-jsfiddle:before {
   content: "\e933";
 }
-.vedico-ruby:before {
+.vedico-kaggle:before {
   content: "\e934";
 }
-.vedico-sass:before {
+.vedico-kotlin:before {
   content: "\e935";
 }
-.vedico-slack:before {
+.vedico-kubernetes:before {
   content: "\e936";
 }
-.vedico-swift:before {
+.vedico-laravel:before {
   content: "\e937";
 }
-.vedico-symfony:before {
+.vedico-less:before {
   content: "\e938";
 }
-.vedico-tensorflow:before {
+.vedico-letsencrypt:before {
   content: "\e939";
 }
-.vedico-twitter:before {
+.vedico-lightroomcc:before {
   content: "\e93a";
 }
-.vedico-typescript:before {
+.vedico-linkedin:before {
   content: "\e93b";
 }
-.vedico-visualstudio:before {
+.vedico-magento:before {
   content: "\e93c";
 }
-.vedico-vuejs:before {
+.vedico-medium:before {
   content: "\e93d";
 }
-.vedico-wordpress:before {
+.vedico-messenger:before {
   content: "\e93e";
+}
+.vedico-microsoft:before {
+  content: "\e93f";
+}
+.vedico-mongodb:before {
+  content: "\e940";
+}
+.vedico-mysql:before {
+  content: "\e941";
+}
+.vedico-netlify:before {
+  content: "\e942";
+}
+.vedico-nginx:before {
+  content: "\e943";
+}
+.vedico-nodejs:before {
+  content: "\e944";
+}
+.vedico-npm:before {
+  content: "\e945";
+}
+.vedico-patreon:before {
+  content: "\e946";
+}
+.vedico-photoshop:before {
+  content: "\e947";
+}
+.vedico-php:before {
+  content: "\e948";
+}
+.vedico-postgresql:before {
+  content: "\e949";
+}
+.vedico-postman:before {
+  content: "\e94a";
+}
+.vedico-python:before {
+  content: "\e94b";
+}
+.vedico-rails:before {
+  content: "\e94c";
+}
+.vedico-raspberrypi:before {
+  content: "\e94d";
+}
+.vedico-react:before {
+  content: "\e94e";
+}
+.vedico-reddit:before {
+  content: "\e94f";
+}
+.vedico-reddit-2:before {
+  content: "\e950";
+}
+.vedico-ruby:before {
+  content: "\e951";
+}
+.vedico-sass:before {
+  content: "\e952";
+}
+.vedico-slack:before {
+  content: "\e953";
+}
+.vedico-soundcloud:before {
+  content: "\e954";
+}
+.vedico-sourceforge:before {
+  content: "\e955";
+}
+.vedico-spotify:before {
+  content: "\e956";
+}
+.vedico-stackoverflow:before {
+  content: "\e957";
+}
+.vedico-swift:before {
+  content: "\e958";
+}
+.vedico-symfony:before {
+  content: "\e959";
+}
+.vedico-telegram:before {
+  content: "\e95a";
+}
+.vedico-tensorflow:before {
+  content: "\e95b";
+}
+.vedico-twitter:before {
+  content: "\e95c";
+}
+.vedico-typescript:before {
+  content: "\e95d";
+}
+.vedico-visualstudio:before {
+  content: "\e95e";
+}
+.vedico-vscode:before {
+  content: "\e95f";
+}
+.vedico-vuejs:before {
+  content: "\e960";
+}
+.vedico-whatsapp:before {
+  content: "\e961";
+}
+.vedico-wordpress:before {
+  content: "\e962";
+}
+.vedico-youtube:before {
+  content: "\e963";
 }
