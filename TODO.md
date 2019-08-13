@@ -3,42 +3,6 @@
 ## New icons
 
 ### Priority
-- ~~adobe illustrator~~
-- ~~adobe xd~~
-- ~~adobe photoshop~~
-- ~~adobe lightroom~~
-- ~~behance~~
-- ~~kaggle~~
-- ~~lets encrypt~~
-- ~~joomla~~
-- ~~gitter~~
-- ~~go~~
-- ~~microsoft~~
-- ~~google~~
-- ~~visual studio code~~
-- ~~kotlin~~
-- ~~whatsapp~~
-- ~~spotify~~
-- ~~reddit~~
-- ~~soundcloud~~
-- ~~jsdelivr~~
-- ~~patreon~~
-- ~~codepen~~
-- ~~bitbucket~~
-- ~~linkedin~~
-- ~~messenger~~
-- ~~medium~~
-- ~~digitalocean~~
-- ~~sourceforge~~
-- ~~jsfiddle~~
-- ~~telegram~~
-- ~~netlify~~
-- ~~youtube~~
-- ~~instagram~~
-- ~~raspberry pi~~
-- ~~cloudflare~~
-- ~~stack overflow~~
-- ~~arduino~~
 
 ### Others
 - material design
@@ -67,4 +31,3 @@
 - tor
 
 ## New versions
-- drupal
