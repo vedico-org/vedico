@@ -5,6 +5,7 @@
 ### Priority
 
 ### Others
+- azure
 - material design
 - creative commons
 - coffeescript
