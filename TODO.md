@@ -34,5 +34,13 @@
 - snapchat
 - tor
 - rust
+- snapcraft
+- appimage
+- fedora
+- manjaro
+- Open BSD
+- FSF
+- bash
+
 
 ## New versions
