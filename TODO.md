@@ -37,6 +37,7 @@
 - snapchat
 - tor
 - rust
+- mail
 
 ## New versions
 
