@@ -37,6 +37,12 @@
 - snapchat
 - tor
 - rust
+- snapcraft
+- appimage
+- manjaro
+- Open BSD
+- FSF
+- bash
 - mail
 
 ## New versions
@@ -50,3 +56,4 @@
 - django
 - coffeescript
 - arch linux
+- visual studio
